@@ -1,0 +1,15 @@
+C:\WantSome\Homerwork\HomeworkWeek4\temaweek4\bin\Debug\net7.0\temaweek4.exe
+C:\WantSome\Homerwork\HomeworkWeek4\temaweek4\bin\Debug\net7.0\temaweek4.deps.json
+C:\WantSome\Homerwork\HomeworkWeek4\temaweek4\bin\Debug\net7.0\temaweek4.runtimeconfig.json
+C:\WantSome\Homerwork\HomeworkWeek4\temaweek4\bin\Debug\net7.0\temaweek4.dll
+C:\WantSome\Homerwork\HomeworkWeek4\temaweek4\bin\Debug\net7.0\temaweek4.pdb
+C:\WantSome\Homerwork\HomeworkWeek4\temaweek4\obj\Debug\net7.0\temaweek4.csproj.AssemblyReference.cache
+C:\WantSome\Homerwork\HomeworkWeek4\temaweek4\obj\Debug\net7.0\temaweek4.GeneratedMSBuildEditorConfig.editorconfig
+C:\WantSome\Homerwork\HomeworkWeek4\temaweek4\obj\Debug\net7.0\temaweek4.AssemblyInfoInputs.cache
+C:\WantSome\Homerwork\HomeworkWeek4\temaweek4\obj\Debug\net7.0\temaweek4.AssemblyInfo.cs
+C:\WantSome\Homerwork\HomeworkWeek4\temaweek4\obj\Debug\net7.0\temaweek4.csproj.CoreCompileInputs.cache
+C:\WantSome\Homerwork\HomeworkWeek4\temaweek4\obj\Debug\net7.0\temaweek4.dll
+C:\WantSome\Homerwork\HomeworkWeek4\temaweek4\obj\Debug\net7.0\refint\temaweek4.dll
+C:\WantSome\Homerwork\HomeworkWeek4\temaweek4\obj\Debug\net7.0\temaweek4.pdb
+C:\WantSome\Homerwork\HomeworkWeek4\temaweek4\obj\Debug\net7.0\temaweek4.genruntimeconfig.cache
+C:\WantSome\Homerwork\HomeworkWeek4\temaweek4\obj\Debug\net7.0\ref\temaweek4.dll
